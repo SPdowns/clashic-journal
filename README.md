@@ -1,11 +1,34 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# The Clashic Journal
+#### A Journal Platform by Sean Downs
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Description
+The Clashic Journal is intended to help individuals start a journaling process. With help from a prompting system, one that will ask simple questions, to help the person think of what to journal about for the writing session.
+
+## Stretch Goals
+To incorporate a habit forming mechanic that will help a person develop strong, positive habits and give them tools to help inside the journal. My thoughts aren't on making this a habit journal; design is taking the habit of journaling and learning from the experience approach; but there will not be limits on what one is supposed to write about.
+
+## Technologies Used
+PHP
+Laravel
+Homestead
+Composer
+Blade
+Eloquent ORM
+Vagrant
+VM VirtualBox
+
+## Setup/Installation
+
+Prerequisites -
+  * PHP - details arriving shortly
+  * Homestead - details arriving shortly
+  * Virtual Box - details arriving shortly
+  * Vagrant - details  arriving shortly
+
+Download with `git clone`
+Open Terminal and change directories into project root
+In the terminal, type `vagrant up`
+In your browser, type `homestead.test` in the address bar.
 
 ## About Laravel
 
