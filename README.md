@@ -4,6 +4,8 @@
 ## Description
 The Clashic Journal is intended to help individuals start a journaling process. With help from a prompting system, one that will ask simple questions, to help the person think of what to journal about for the writing session.
 
+![image](public/img/screenshot1.png)
+
 ## Stretch Goals
 To incorporate a habit forming mechanic that will help a person develop strong, positive habits and give them tools to help inside the journal. My thoughts aren't on making this a habit journal; design is taking the habit of journaling and learning from the experience approach; but there will not be limits on what one is supposed to write about.
 
@@ -29,6 +31,8 @@ Download with `git clone`
 Open Terminal and change directories into project root
 In the terminal, type `vagrant up`
 In your browser, type `homestead.test` in the address bar.
+
+![image](public/img/screenshot2.png)
 
 ## About Laravel
 
